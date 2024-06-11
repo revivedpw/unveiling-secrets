@@ -1,3 +1,4 @@
+=====================================================================================================================================================================================================================
 BASIC ABILITIES
 
 Acrobatics: ability to balance and perform acrobatic feats.
@@ -46,6 +47,7 @@ Throw: ability to accurately throw some object.
 
 Track: ability to track something or someone.
 
+=====================================================================================================================================================================================================================
 EXPERTISES
 
 Medicine: Ability to diagnose and treat injuries and illnesses using medical knowledge and techniques.
@@ -103,4 +105,4 @@ Chemistry: Ability to understand and manipulate chemical substances and reaction
 Explosives: Ability to create, handle, and safely detonate explosives.
 
 Mobility Hooks: Ability to use grappling hooks and similar tools to climb and navigate difficult terrain.
-
+=====================================================================================================================================================================================================================
